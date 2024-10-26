@@ -51,6 +51,5 @@
     "memory": "3072",
     "registeredAt": "2024-10-26T04:47:20.520Z",
     "registeredBy": "arn:aws:iam::712740165373:root",
-    "enableFaultInjection": false,
     "tags": []
 }
